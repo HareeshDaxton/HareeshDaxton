@@ -1,4 +1,4 @@
-# <div align="center">Hi 👋, I'm Hareesh Kumar</div>
+# <div align="center">Hello there 👋, I'm Hareesh Kumar</div>
 <div align="center">
 <h3>AI/ML Enthusiast | Passionate About Building Intelligent Systems | Driven by Innovation & Problem-Solving</h3>
 </div>
