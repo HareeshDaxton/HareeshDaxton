@@ -1,6 +1,6 @@
 # 👋 Hareesh Kumar K
 
-### 🤖 AIML ENGINEER 
+### AIML ENGINEER 
 
 🔭 I'm interested in the space between what AI can do today and what it should be capable of tomorrow.
 
